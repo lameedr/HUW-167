@@ -1,0 +1,79 @@
+@media screen and (min-width: 100rem) {
+  .outer-box-frame {
+ 		border: 5rem solid #C1A2CC;
+	  margin: 5rem auto ; /*the auto for the left/right keeps the page centered*/
+		padding: 8rem;
+    max-width: 35rem; // min-width - 2(padding + border)
+  }
+  body {
+    background-color: #F08080;
+
+  }
+
+.outer-box-frame {
+    background-color: #fff;
+  }
+
+   
+
+
+
+ #TryAgain {
+   	background-color: plum;
+   	margin-left: 20rem;
+   	font-style: bold;
+   	font-size: 20px;
+   	color: black;
+   	box-shadow: 5px 10px #8B008B;
+}
+   
+#TryYourLuck {
+	background-color: coral;
+	font-style: bold; 
+	font-size: 20px;
+	color: black;
+	box-shadow: 5px 10px #483D8B;
+}
+
+h1, h2 {
+	font-family: sans-serif;
+	font-style: italic;
+	font-size: 20px;
+	border-bottom: 5px solid #4B0082;
+	background-blend-mode: #4B0082;
+	color: crimson;
+    padding-left: 7rem;
+    letter-spacing: 0.45rem;
+    font-weight: 700;
+    box-shadow: 2px 5px #483D8B;
+    box-decoration-break: slice;
+
+
+
+}
+
+h3 {
+	font-family: cursive;
+	font-style: italic;
+	font-size: 19px;
+	color: navy;
+}
+p {
+	font-family: monospace;
+	font-style: initial;
+	color: deeppink;
+	border-style: dotted solid double;
+	border-color: gold;
+	box-shadow: 5px 10px #888888;
+}
+#result {
+	background-color: ;
+	font-style: italic;
+	font-size: 35px;
+	
+
+
+}
+
+   
+  
